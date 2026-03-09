@@ -14,6 +14,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://git.kernel.org/pub/scm/utils/kernel/kmod/kmod.git"
-    version: "v32"
+    version: "41faa59711742c1476d59985011ee0f27ed91d30"
+    closest_version: "v32"
   }
 }
